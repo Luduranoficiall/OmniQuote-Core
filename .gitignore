@@ -1,0 +1,17 @@
+# Java
+*.class
+*.log
+*.jar
+
+# .NET / C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# IDEs e Sistema
+.vscode/
+.idea/
+.DS_Store
+*.swp
